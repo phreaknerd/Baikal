@@ -8,7 +8,7 @@ Specific/INSTALL_DISABLED
 
 # Composer stuff
 composer.lock
-vendor
+#vendor
 
 # Build
 /build
